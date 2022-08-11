@@ -1,13 +1,20 @@
 body{
-    background-color: rgb(138, 174, 166);
+    background-color: rgb(170, 255, 247);
 } 
 
 h1{
     color:rgb(6, 6, 136); text-align: center;
+    color:rgb(0, 0, 255); text-align: center;
+    border: dotted 5px rgb(33, 0, 246);
+    padding: 10px;
+    margin: 30px
 }
 
 h2 {
-    color:rgb(255, 0, 0); text-align: center;
+    color:rgb(0, 4, 255); text-align: center;
+    border: dotted 5px rgb(33, 0, 246);
+    padding: 10px;
+    margin: 30px
 }
 
 h3{
@@ -16,4 +23,14 @@ h3{
 
 p{
     text-align: center; font-size: 30px;
+    
 }
+
+#imagens/Foto5-vistaexterna.jpeg {
+    border: solid yellow
+    width: 10px;
+}
+
+#imagens/foto3-panoramica2 {
+    border: solid red;
+    width: 10px;
