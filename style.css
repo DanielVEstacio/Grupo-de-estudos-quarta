@@ -21,6 +21,10 @@ h3{
     color:rgb(11, 127, 100); text-align: center;
 }
 
+H4 {
+    background-color: rgb(221, 255, 0);
+}
+
 p{
     text-align: center; font-size: 30px;
     
@@ -28,9 +32,26 @@ p{
 
 #imagens/Foto5-vistaexterna.jpeg {
     border: solid yellow
-    width: 10px;
+    width: 15px;
 }
 
 #imagens/foto3-panoramica2 {
     border: solid red;
-    width: 10px;
+    width: 15px;
+}
+
+.intens{
+    background-color: black;
+}
+
+li: ::marker{
+    ::content: "\FF04";
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin: 120px;
+}
+   
+   
