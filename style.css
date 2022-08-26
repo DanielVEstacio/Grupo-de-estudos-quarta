@@ -22,7 +22,7 @@ h3{
 }
 
 H4 {
-    background-color: rgb(221, 255, 0);
+    background-color: rgb(45, 12, 213);
 }
 
 p{
@@ -31,7 +31,7 @@ p{
 }
 
 #imagens/Foto5-vistaexterna.jpeg {
-    border: solid yellow
+    border: solid rgb(65, 12, 238)
     width: 15px;
 }
 
