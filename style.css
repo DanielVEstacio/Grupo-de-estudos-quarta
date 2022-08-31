@@ -12,7 +12,7 @@ h1{
 
 h2 {
     color:rgb(0, 4, 255); text-align: center;
-    border: dotted 5px rgb(33, 0, 246);
+    border: 5px rgb(33, 0, 246);
     padding: 10px;
     margin: 30px
 }
@@ -22,7 +22,7 @@ h3{
 }
 
 H4 {
-    background-color: rgb(45, 12, 213);
+    background-color: rgb(65, 200, 245);
 }
 
 p{
@@ -30,18 +30,29 @@ p{
     
 }
 
-#imagens/Foto5-vistaexterna.jpeg {
+#IMAGEM/Foto5-vistaexterna.png {
     border: solid rgb(65, 12, 238)
     width: 15px;
 }
 
-#imagens/foto3-panoramica2 {
+#IMAGEM/foto3-panoramica2.png {
     border: solid red;
     width: 15px;
 }
 
+#IMAGEM/foto5-vistaexterna.png {
+    border: solid rgb(65, 12, 238)
+    width: 15px;
+}
+
+#IMAGEM/foto3-panoramica.png {
+    border: solid rgb(65, 12, 238)
+    width: 15px;
+}
+
+
 .intens{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 
 li: ::marker{
